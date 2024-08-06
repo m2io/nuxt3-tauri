@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">nuxt3-tauri</string>
+    <string name="main_activity_title">nuxt3-tauri</string>
+</resources>
